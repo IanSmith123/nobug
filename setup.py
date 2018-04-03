@@ -9,7 +9,7 @@ except NameError:
         return s.encode('utf-8')
 
 setup(name='nobug',
-      version='0.1.1',
+      version='0.2.0',
       description=u8('佛祖保佑 永无bug'),
       author = 'Les1ie',
       author_email = 'iansmith@qq.com',
