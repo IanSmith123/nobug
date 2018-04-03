@@ -1,2 +1,5 @@
 .idea/*
 *.un~
+dist
+nobug.egg-info
+__*
