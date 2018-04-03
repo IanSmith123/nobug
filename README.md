@@ -30,13 +30,15 @@ $ pip3 install nobug
 ![](http://oqyjccf1n.bkt.clouddn.com/20180403-183332.png)
 
 
-![](http://oqyjccf1n.bkt.clouddn.com/20180403-183655.png)
+
 
 ![](http://oqyjccf1n.bkt.clouddn.com/20180403-183451.png)
 
 ![](http://oqyjccf1n.bkt.clouddn.com/20180403-183526.png)
 
 ![](http://oqyjccf1n.bkt.clouddn.com/20180403-183603.png)
+
+![](http://oqyjccf1n.bkt.clouddn.com/20180403-183655.png)
 
 当然了，代码写完了最后需要庆祝一下
 
