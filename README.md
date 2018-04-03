@@ -3,12 +3,12 @@
 
 ## introduction
 
-佛祖保佑 永无bug
+没有bug
+没有bug
+没有bug
 
+佛祖、Jesus、神兽保佑代码无bug
 
-With this package, you can get the bless from The Buddha!!!
-
-Bugs will not disturb you, so you can enjoy your life.
 
 ## install
 ```
@@ -17,9 +17,14 @@ $ pip3 install nobug
 
 ## usage
 
+选一个吧
 ```
-import nobug
-
+from nobug import success
+from nobug import Jesus
+from nobug import caonima
+from nobug import awesome_caonima
+from nobug import book
+from nobug import success
 # write your own code
 ```
 
