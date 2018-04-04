@@ -29,6 +29,12 @@ $ pip3 install nobug
 
 ![](http://oqyjccf1n.bkt.clouddn.com/20180403-183332.png)
 
+当然，bug多了我佛也扛不住(感谢[Ehco1996](https://github.com/Ehco1996)的pr)
+
+![](C:\Users\binha\AppData\Local\Temp\1522860095328.png)
+
+神兽草泥马也是需要的
+
 
 
 
