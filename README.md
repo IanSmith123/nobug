@@ -27,28 +27,28 @@ $ pip3 install nobug
 
 
 
-![](http://oqyjccf1n.bkt.clouddn.com/20180403-183332.png)
+![](http://static.scuseek.com/20180403-183332.png)
 
 当然，bug多了我佛也扛不住(感谢[Ehco1996](https://github.com/Ehco1996)的pr)
 
-![](http://oqyjccf1n.bkt.clouddn.com/20180405-004534.png)
+![](http://static.scuseek.com/20180405-004534.png)
 
 神兽草泥马也是需要的
 
 
 
 
-![](http://oqyjccf1n.bkt.clouddn.com/20180403-183451.png)
+![](http://static.scuseek.com/20180403-183451.png)
 
-![](http://oqyjccf1n.bkt.clouddn.com/20180403-183526.png)
+![](http://static.scuseek.com/20180403-183526.png)
 
-![](http://oqyjccf1n.bkt.clouddn.com/20180403-183603.png)
+![](http://static.scuseek.com/20180403-183603.png)
 
-![](http://oqyjccf1n.bkt.clouddn.com/20180403-183655.png)
+![](http://static.scuseek.com/20180403-183655.png)
 
 当然了，代码写完了最后需要庆祝一下
 
-![](http://oqyjccf1n.bkt.clouddn.com/20180403-183732.png)
+![](http://static.scuseek.com/20180403-183732.png)
 
 ## 跋
 
